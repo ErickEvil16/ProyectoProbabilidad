@@ -13,6 +13,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## O en su defecto
+```bash
+python -m streamlit run app.py
+```
 
 ## Distribuciones implementadas
 - Binomial
